@@ -50,27 +50,30 @@ Me interesa especialmente el desarrollo full-stack, la resolución de problemas 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanteensanche-blip&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanteensanche-blip&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más usados" height="165"/>
+  <img src="https://img.shields.io/github/followers/kanteensanche-blip?style=for-the-badge&logo=github&color=2EA043&labelColor=0D1117" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/kanteensanche-blip?style=for-the-badge&logo=github&color=2EA043&labelColor=0D1117" alt="Estrellas totales" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2EA043&labelColor=0D1117&label=Repositorios&query=public_repos&url=https://api.github.com/users/kanteensanche-blip" alt="Repositorios públicos" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanteensanche-blip&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanteensanche-blip&theme=algolia&no-frame=true&row=1&column=6" alt="Trofeos de GitHub" />
-</p>
-
-> Si las tarjetas de estadísticas no se ven bien al principio, refresca la página en unos minutos: son servicios gratuitos que a veces tardan en generarse.
-
 ---
 
 ### 📌 Proyecto destacado
 
-<a href="https://github.com/kanteensanche-blip/Ecuaci-n-de-Segundo-Grado">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanteensanche-blip&repo=Ecuaci-n-de-Segundo-Grado&theme=github_dark&hide_border=true" alt="Ecuación de Segundo Grado" />
-</a>
+<table align="center">
+  <tr>
+    <td>
+      <h4><a href="https://github.com/kanteensanche-blip/Ecuaci-n-de-Segundo-Grado">Ecuación de Segundo Grado</a></h4>
+      Aplicación web para resolver ecuaciones de segundo grado, con frontend en HTML/CSS/JS y backend en Python (Flask).
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -88,3 +91,6 @@ Me interesa especialmente el desarrollo full-stack, la resolución de problemas 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=100&section=footer" />
 </p>
+
+
+
