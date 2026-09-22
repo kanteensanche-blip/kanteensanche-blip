@@ -1,4 +1,7 @@
-<h1 align="center">Kante</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:23633E,100:2EA043&height=180&section=header&text=Mahamadou%20Kante&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
 <h3 align="center">Desarrollador/a Full-Stack en formación</h3>
 
 <p align="center">
@@ -15,7 +18,7 @@
 
 ### Sobre mí
 
-Desarrollador/a en formación, enfocado en la construcción de aplicaciones web que integra frontend y backend. Actualmente trabajo en **[Ecuación de Segundo Grado](https://github.com/kanteensanche-blip/Ecuaci-n-de-Segundo-Grado)**, un proyecto que combina HTML, CSS, JavaScript y Python (Flask) para resolver ecuaciones cuadráticas de forma interactiva.
+Desarrollador/a en formación, enfocado en la construcción de aplicaciones web que integran frontend y backend. Actualmente trabajo en **[Ecuación de Segundo Grado](https://github.com/kanteensanche-blip/Ecuaci-n-de-Segundo-Grado)**, un proyecto que combina HTML, CSS, JavaScript y Python (Flask) para resolver ecuaciones cuadráticas de forma interactiva.
 
 Me interesa especialmente el desarrollo full-stack, la resolución de problemas mediante código y la mejora continua de buenas prácticas de programación.
 
@@ -54,6 +57,12 @@ Me interesa especialmente el desarrollo full-stack, la resolución de problemas 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanteensanche-blip&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kanteensanche-blip&theme=algolia&no-frame=true&row=1&column=6" alt="Trofeos de GitHub" />
+</p>
+
+> Si las tarjetas de estadísticas no se ven bien al principio, refresca la página en unos minutos: son servicios gratuitos que a veces tardan en generarse.
 
 ---
 
