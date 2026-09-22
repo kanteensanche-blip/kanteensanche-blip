@@ -15,7 +15,7 @@
 
 ### Sobre mí
 
-Desarrollador/a en formación, enfocado en la construcción de aplicaciones web que integran frontend y backend. Actualmente trabajo en **[Ecuación de Segundo Grado](https://github.com/kanteensanche-blip/Ecuaci-n-de-Segundo-Grado)**, un proyecto que combina HTML, CSS, JavaScript y Python (Flask) para resolver ecuaciones cuadráticas de forma interactiva.
+Desarrollador/a en formación, enfocado en la construcción de aplicaciones web que integra frontend y backend. Actualmente trabajo en **[Ecuación de Segundo Grado](https://github.com/kanteensanche-blip/Ecuaci-n-de-Segundo-Grado)**, un proyecto que combina HTML, CSS, JavaScript y Python (Flask) para resolver ecuaciones cuadráticas de forma interactiva.
 
 Me interesa especialmente el desarrollo full-stack, la resolución de problemas mediante código y la mejora continua de buenas prácticas de programación.
 
