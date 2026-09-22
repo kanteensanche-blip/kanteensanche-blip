@@ -1,4 +1,4 @@
-<h1 align="center">Kanteensanche</h1>
+<h1 align="center">Kante</h1>
 <h3 align="center">Desarrollador/a Full-Stack en formación</h3>
 
 <p align="center">
